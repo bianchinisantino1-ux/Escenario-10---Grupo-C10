@@ -8,6 +8,9 @@
   * Mañanes Amarilla, Lautaro Facundo (47.323.629 / 30688)
   * Ponce, Marcos Lautaro (47.224.382 / 29194)
   * San Vicente, Maria Juliana (45.102.594 / 30260)
+ 
+# Enlace del video explicativo
+https://drive.google.com/file/d/1wzzmaVW7xH7KUxs0DfbTFhNi3KtdBmOD/view?usp=sharing 
 
 ## Descripción del Sistema
 Este es un sistema basado en consola desarrollado en Python para administrar las operaciones básicas de un hotel. Permite realizar el registro de huéspedes (Check-in), control de disponibilidad por tipo de habitación, liberación de habitaciones (Check-out) con cálculo automático de estadías e importes, y visualización de estadísticas generales de ocupación y recaudación.
