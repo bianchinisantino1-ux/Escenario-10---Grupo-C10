@@ -7,7 +7,7 @@
   * Bianchini, Santino (47.041.315 / 30180)
   * Mañanes Amarilla, Lautaro Facundo (47.323.629 / 30688)
   * Ponce, Marcos Lautaro (47.224.382 / 29194)
-  * San Vicente, Maria Juliana (45.102.594 / 30260)
+  * 
  
 # Enlace del video explicativo
 https://drive.google.com/file/d/1wzzmaVW7xH7KUxs0DfbTFhNi3KtdBmOD/view?usp=sharing 
