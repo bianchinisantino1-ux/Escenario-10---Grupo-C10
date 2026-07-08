@@ -112,7 +112,7 @@ def mostrar_estado_hotel():
     print("========================================")
 
 
-# 3. CHECK-OUT Y FACTURACIÓN
+
 def registrar_check_out():
     global ocupadas_estandar, ocupadas_premium, ocupadas_suite, total_dinero_recaudado
     
